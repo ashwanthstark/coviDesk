@@ -1,4 +1,4 @@
-tensorflow==1.14.0
+tensorflow==2.5.0rc0
 Werkzeug==1.0.0
 opencv_python==3.3.1
 numpy==1.13.0
